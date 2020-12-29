@@ -8,7 +8,7 @@ const Post = () => {
       </div>
       <h1 className="mt-4 text-4xl">Spacemacs Reminders</h1>
       <p className="text-sm bg-black text-white inline px-1 py-1">
-        Updated December 26, 2020
+        Updated December 27, 2020
       </p>
       <main className="mt-6">
         <p className="text-base my-2">

@@ -2,12 +2,12 @@ import Header from "../components/Header";
 
 const About = () => {
   return (
-    <div className="p-8 font-mono relative">
+    <div className="p-8 font-mono ">
       <div className="mx-auto md:w-2/3 w-full">
         <Header displayStyle="other" />
       </div>
       <h1 className="mt-4 text-4xl">About</h1>
-      <main className="mt-2 text-2xl">
+      <main className="mt-2 text-2xl lg:w-2/3">
         <h2 className="bg-black text-white inline px-2 py-1">Professional</h2>
         <p className="text-lg my-2">
           I'm an engineering leader with a broad technical skillset, primarily
